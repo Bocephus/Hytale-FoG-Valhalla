@@ -1,7 +1,7 @@
 # Mods
 
 | Mod Name | Status | Version |
-|----------|--------|
+|----------|--------|---------|
 | Advanced Item Info | :white_check_mark: | |
 | Adventure Pick Block | :x: | |
 | All The Water | :x: | |
