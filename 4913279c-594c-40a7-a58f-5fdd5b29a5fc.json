@@ -1,0 +1,65 @@
+{
+  "uuid": "4913279c-594c-40a7-a58f-5fdd5b29a5fc",
+  "name": "Bocephus666",
+  "firstJoin": 1769530056043,
+  "lastSeen": 1769530142378,
+  "playTime": 86,
+  "wallet": 0.0,
+  "homes": {
+    "farm": {
+      "name": "farm",
+      "location": {
+        "world": "Valhalla",
+        "x": 1083.5673828125,
+        "y": 131.0,
+        "z": -712.29248046875,
+        "yaw": -1.364575,
+        "pitch": -0.28763172
+      },
+      "createdAt": 1769530097457
+    },
+    "tmpbase2": {
+        "name": "tmpbase2",
+        "location": {
+            "world": "Valhalla",
+            "x": 1488.6578369140625,
+            "y": 134.0,
+            "z": -514.2653198242188,
+            "yaw": -0.14417227,
+            "pitch": -0.20804556
+        },
+        "createdAt": 1769530097457
+    },
+    "base2": {
+        "name": "base2",
+        "location": {
+            "world": "Valhalla",
+            "x": 1081.5152587890625,
+            "y": 131.0,
+            "z": -710.5826416015625,
+            "yaw": -1.0075537,
+            "pitch": -0.14154816
+        },
+        "createdAt": 1769530097457
+    },
+    "base3": {
+        "name": "base3",
+        "location": {
+            "world": "Valhalla",
+            "x": 1982.6036376953125,
+            "y": 194.0,
+            "z": -224.11697387695312,
+            "yaw": 2.2877603,
+            "pitch": -0.21854822
+        },
+        "createdAt": 1769530097457
+    }
+  },
+  "backHistory": [],
+  "kitClaims": [],
+  "kitCooldowns": {},
+  "playtimeClaims": {
+    "claimedMilestones": [],
+    "repeatableCounts": {}
+  }
+}
