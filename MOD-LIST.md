@@ -58,11 +58,11 @@
 | [Perfect Parries](https://www.curseforge.com/hytale/mods/perfect-parries) | :white_check_mark: | 0.6.0 | |
 | [PANDA's Persistent Crossbow Load](https://www.curseforge.com/hytale/mods/pandas-persistent-crossbow-load) | :white_check_mark: | 0.3.0 | |
 | [PANDA's Persistent Signature Move](https://www.curseforge.com/hytale/mods/pandas-persistent-signature-move) | :white_check_mark: | 0.3.0 | |
-| [Conveyor Belts and Arms - Automation Mod](https://www.curseforge.com/hytale/mods/conveyor-belts) :x: | | |
+| [Conveyor Belts and Arms - Automation Mod](https://www.curseforge.com/hytale/mods/conveyor-belts) | :x: | | |
 | [ReviveMe](https://www.curseforge.com/hytale/mods/reviveme) | :white_check_mark: | 1.0.6 | |
 | [Salvage Everything](https://www.curseforge.com/hytale/mods/salvage-everything) | :white_check_mark: | 1.1.2 | |
 | [Simple Claims](https://www.curseforge.com/hytale/mods/simple-claims) | :white_check_mark: | 1.0.26 | |
-| [Carson's Simple Storage System](https://www.curseforge.com/hytale/mods/carsons-simple-storage-mod) :white_check_mark: | 1.3.3 | |
+| [Carson's Simple Storage System](https://www.curseforge.com/hytale/mods/carsons-simple-storage-mod) | :white_check_mark: | 1.3.3 | |
 | [Simply Trash](https://www.curseforge.com/hytale/mods/simply-trash) | :white_check_mark: | 1.0.0 | |
 | [Sleep Regeneration](https://www.curseforge.com/hytale/mods/sleep-regeneration) | :white_check_mark: | 1.0.0 | |
 | [Spellbook](https://www.curseforge.com/hytale/mods/spellbook) | :white_check_mark: | 2026.1.25-5454 | :white_check_mark: |
