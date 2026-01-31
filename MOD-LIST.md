@@ -30,7 +30,6 @@
 | [H Industries](https://www.curseforge.com/hytale/mods/h-industries) | :white_check_mark: | 0.0.4 | 0.1.6 |
 | [Daniel's Interactions Library](https://www.curseforge.com/hytale/mods/daniels-interactions-library) | :white_check_mark: | 1.1.1 | :white_check_mark: |
 | [HyUI](https://www.curseforge.com/hytale/mods/hyui) | :white_check_mark: | 0.5.11 | :white_check_mark: |
-
 | [Item Magnet](https://www.curseforge.com/hytale/mods/item-magnet) | :white_check_mark: | 1.0.1 | |
 | [Inventory Chest Depositor + Trash + Find + Get](https://www.curseforge.com/hytale/mods/kings-deluxe-auto-deposit-trash) | :white_check_mark: | 1.0.2 | |
 | [HyTame - Animal Breeding](https://www.curseforge.com/hytale/mods/hytame) | :white_check_mark: | 1.4.3 | |
