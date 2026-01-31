@@ -27,7 +27,7 @@
 | [HyProTech](https://www.curseforge.com/hytale/mods/hyprotech) | :white_check_mark: | 1.7 | |
 | [Mining Hammers and Excavators](https://www.curseforge.com/hytale/mods/excavatorsandhammers) | :white_check_mark: | 1.0.0 | |
 | [In-Game Console](https://www.curseforge.com/hytale/mods/in-game-console) | :white_check_mark: | 0.0.4 | |
-| [H Industries](https://www.curseforge.com/hytale/mods/h-industries) | :white_check_mark: | 0.0.4 | 0.1.6 |
+| [H Industries](https://www.curseforge.com/hytale/mods/h-industries) | :white_check_mark: | 0.1.6 | |
 | [Daniel's Interactions Library](https://www.curseforge.com/hytale/mods/daniels-interactions-library) | :white_check_mark: | 1.1.1 | :white_check_mark: |
 | [HyUI](https://www.curseforge.com/hytale/mods/hyui) | :white_check_mark: | 0.5.11 | :white_check_mark: |
 | [Item Magnet](https://www.curseforge.com/hytale/mods/item-magnet) | :white_check_mark: | 1.0.1 | |
